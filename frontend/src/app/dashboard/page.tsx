@@ -4,7 +4,7 @@ import Board from '@/components/board';
 import WidthContainer from '@/components/widthContainer';
 import { COOKIE_NAME_JWT_TOKEN, FOOTER_HEIGHT_PX, INVITE_STATUS, NAVBAR_HEIGHT_PX } from '@/constants';
 import NewBoardModal from '@/components/modals/newBoard';
-import InviteAlerts from '@/components/inviteAlerts';
+import InviteAlerts from '@/components/InviteAlerts';
 
 export const metadata = {
   title: 'Dashboard',

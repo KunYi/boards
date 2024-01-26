@@ -1,5 +1,7 @@
 #!/bin/sh
 
+npm install
+
 if [ "$ENV" = "development" ]; then
     npm run dev
 else
